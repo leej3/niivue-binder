@@ -2,8 +2,8 @@ ipyniivue>=2.4.2
 notebook
 jupyterlab
 ipywidgets
-voila
-nbconvert
-matplotlib
 numpy
+nibabel>=5.3.2,<6
+scipy>=1.16.3,<2
+scikit-image>=0.25.2,<0.26
 pre-commit
